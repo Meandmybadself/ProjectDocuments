@@ -1,0 +1,6 @@
+web.config
+WebProject.sln
+WebProject.sln.*
+WebProject.suo
+.DS_Store
+/App_Data/CMSTemp
