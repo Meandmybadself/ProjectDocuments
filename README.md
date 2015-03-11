@@ -1,9 +1,10 @@
 Project Documents
 ================
 
-Documents we use to define a project here @ [Colle+McVoy](http://www.collemcvoy.com)
+Documents we use to define the technological aspects of a project.  
+Originally developed @ [Colle+McVoy](http://www.collemcvoy.com)
 
-One can think about these documents in two ways:
+You can think about these documents in two ways:
 
 1. A sticker sheet list of supported technologies for a given project.  Think of it as like when you're buying a car.  If you want Bluetooth & heated seats, you gotta pay for Bluetooth & heated seats.
 2. Scars that tell the details missed in previous projects.
